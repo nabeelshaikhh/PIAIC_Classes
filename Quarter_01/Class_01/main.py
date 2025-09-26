@@ -20,6 +20,8 @@ print(40 + 90)  # Python can also calculate expressions
 
 # Printing multiple values together
 print("PIAIC", "Class", 01)
+
+#Output
 Hello World!
 Hello, Python!
 First Name: Nabeel
@@ -27,4 +29,4 @@ Last Name: Shaikh
 Hello World
 50
 130
-PIAIC Class 1
+PIAIC Class 01
