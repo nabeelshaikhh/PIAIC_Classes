@@ -8,8 +8,8 @@ print("Hello, World!")   # Output: Hello, World!
 
 # Variables
 name = "Nabeel"
-number = 02
-print(number)            # Output: 02
+number = 10
+print(number)            # Output: 10
 
 # -------------------------------------------
 # Data Types
@@ -18,7 +18,7 @@ print(number)            # Output: 02
 print("Nabeel")           # Output: Nabeel
 
 # 2. Integer
-print(2)                 # Output: 2
+print(5)                 # Output: 5
 
 # 3. Float
 print(5.5)               # Output: 5.5
